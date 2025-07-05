@@ -69,8 +69,8 @@ To **democratize digital commerce** by empowering small and medium-sized busines
 
 ## 📈 Future Roadmap
 
-- [ ] Vendor onboarding via mobile
-- [ ] Group chat support in group orders
+- [x] Vendor onboarding via mobile
+- [x] Group chat support in group orders
 - [ ] Recommendation engine (AI-based)
 - [ ] Multi-language and currency support
 - [ ] Admin analytics for regional sales
