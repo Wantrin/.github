@@ -5,3 +5,5 @@ At its core, Wantrin streamlines workflows for merchants and buyers by integrati
 What sets Wantrin apart is its commitment to community-driven commerce and automation — from group order splitting to dynamic notifications and status updates, it enhances collaboration and reduces manual work.
 
 With a distinctive orange "W!" logo shaped like a circular cart, Wantrin symbolizes movement, innovation, and accessibility — bringing people together around shared needs and smarter buying decisions.
+
+![Wantrin](https://github.com/user-attachments/assets/c4669ab8-ef4d-4667-9ed6-590c18abb428)
